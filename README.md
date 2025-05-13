@@ -1,5 +1,22 @@
+
+<p align="center">
+  <img src="banner.png" alt="Netflix Case Study Banner" width="100%">
+</p>
+
+<!-- ✅ BANNER (top of README) -->
+[![Netflix Case Study Banner](banner.png)](https://sweetyseelam2.github.io/SweetySeelam.github.io/)
+
+---
+
 # 🎯 Netflix Case Study:                                                           
 **Surviving the Streaming Wars: Netflix’s High-Stakes Gamble with Ad-Tiers Amid Soaring Content Costs & Global Competition**
+
+> A professional data-driven case study analyzing Netflix’s ad-supported tier strategy, churn risk, and monetization optimization using data science — APA-compliant and recruiter-focused.
+
+---
+
+📄 **Download the Full Case Study (PDF):**  
+👉 [Netflix_AdTier_CaseStudy_SweetySeelam.pdf](https://github.com/SweetySeelam2/Netflix_Ad-Tier_Strategy_CaseStudy/raw/main/Netflix_AdTier_CaseStudy_SweetySeelam.pdf)
 
 ---
 
@@ -52,10 +69,10 @@ It explores:
 Aspiring Data Scientist | Former Business Analyst at Amazon                                                                 
 🔗 [Portfolio Website](https://sweetyseelam2.github.io/SweetySeelam.github.io/)                                       
 🔗 [LinkedIn](https://www.linkedin.com/in/sweetyrao670/)                                                             
-🔗 [GitHub](https://github.com/SweetySeelam2/Netflix_Ad-Tier_Strategy_CaseStudy)                                                 
+🔗 [GitHub](https://github.com/SweetySeelam2/Netflix_Ad-Tier_Strategy_CaseStudy)                                                  
 
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE) — open-source and attribution-friendly.
+This project is licensed under the [MIT License](LICENSE) — open-source and attribution-friendly.  
 (C) 2025 Sweety Seelam. All rights reserved.
