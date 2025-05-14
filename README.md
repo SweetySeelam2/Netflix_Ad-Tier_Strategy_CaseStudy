@@ -7,8 +7,6 @@
 # 🎯 Netflix Case Study:                                                           
 **Surviving the Streaming Wars: Netflix’s High-Stakes Gamble with Ad-Tiers Amid Soaring Content Costs & Global Competition**
 
-> A professional data-driven case study analyzing Netflix’s ad-supported tier strategy, churn risk, and monetization optimization using data science — APA-compliant and recruiter-focused.
-
 ---
 
 📄 **Download the Full Case Study (PDF):**  
@@ -17,46 +15,49 @@
 ---
 
 ## 🧾 Executive Summary
-Netflix is navigating its most competitive era ever. With escalating content production costs and saturation in mature markets, the streaming giant introduced a new ad-supported tier. This case study analyzes the strategic implications, challenges, and data science solutions behind that pivot.
+Netflix is navigating its most competitive era ever. With **$18B in projected content spend (2025)**, slowing growth in mature markets, and rising demand for affordability — Netflix introduced a hybrid monetization strategy centered around its ad-supported tier.
 
-It explores:
-- Strategic pressure from competitors like Disney+ and Amazon Prime
-- Soaring content budgets ($17B in 2024)
-- Adoption of ad-tier (70M MAUs, 40–50% of new signups)
-- Churn, user segmentation, and monetization experiments
-- Predictive modeling and reinforcement learning strategies
+This case study analyzes:
+- Strategic pressure from competitors like Disney+, Prime Video, and FAST platforms
+- Adoption of ad-tier: **91M+ MAUs**, now **55% of all new signups**
+- Risks: churn, ad fatigue, and ARPU cannibalization
+- Predictive churn modeling, RL-based ad delivery, and psychographic segmentation
+- Monetization tradeoffs and personalized pricing optimization
 
 ---
 
 ## 📊 Included Visuals
-- 📈 Subscriber Growth (2019–2024)
-- 📊 Ad-Tier MAUs (2022–2024)
-- 💸 Content Spending Bar Chart (2023–2024)
-- ⚠️ Churn Rate Comparison by Platform
+- 📈 Ad-Tier Growth (2023–2025)
+- 📊 Subscriber Distribution by Region – 2025
+- 💸 Revenue Growth (2023–Q1 2025)
+- ⚠️ Churn Rate Comparison
 
 ---
 
 ## 🔍 Highlights
-- Global Subscribers: **301M+** (Q4 2024)
-- Content Spend: **$17B** in 2024
-- Churn Rate: ~**2%** (lowest in category)
-- Ad-tier Impact: Up to **+18% LTV uplift** with personalization
+- Global Subscribers: **301.6M** (Q1 2025)
+- Content Spend: **$18B projected** in 2025
+- Ad-tier Users: **91M+**, 30% QoQ growth
+- Ad-Signup Share: **55% of new members**
+- Churn Rate: ~**2%**, among lowest in industry
+- Business Impact: **+18% LTV uplift**, **–12% churn**, **+7% hybrid-tier revenue YoY**
 
 ---
 
 ## 📂 Files Included
 - `Netflix_AdTier_CaseStudy_SweetySeelam.pdf`
-- `/images` folder with 4 supporting charts
+- `/images` folder with updated charts (2025)
 - `LICENSE` (MIT)
 - `README.md` (this file)
 
 ---
 
 ## 🧠 Data Science Strategies Used
-- Churn prediction via behavioral modeling
+- Predictive churn modeling (supervised learning)
 - Reinforcement learning for ad scheduling
-- A/B testing for monetization optimization
-- Psychographic segmentation for tier mapping
+- A/B & multivariate testing (formats, pacing, UX)
+- Psychographic + geo-behavioral segmentation
+- Value-based pricing simulations
 
 ---
 
