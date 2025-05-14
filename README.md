@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="banner.png" alt="Netflix Case Study Banner" width="100%">
-</p>
-
 <!-- ✅ BANNER (top of README) -->
 [![Netflix Case Study Banner](banner.png)](https://sweetyseelam2.github.io/SweetySeelam.github.io/)
 
