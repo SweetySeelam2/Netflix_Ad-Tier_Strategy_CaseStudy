@@ -1,6 +1,6 @@
 
 <!-- ✅ BANNER (top of README) -->
-[![Netflix Case Study Banner](banner.png)]
+[![Netflix Case Study Banner](banner.png)](https://github.com/SweetySeelam2/Netflix_Ad-Tier_Strategy_CaseStudy/blob/main/banner.png)
 ---
 
 # 🎯 Netflix Case Study:                                                           
