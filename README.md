@@ -1,7 +1,6 @@
 
 <!-- ✅ BANNER (top of README) -->
-[![Netflix Case Study Banner](banner.png)](https://sweetyseelam2.github.io/SweetySeelam.github.io/)
-
+[![Netflix Case Study Banner](banner.png)]
 ---
 
 # 🎯 Netflix Case Study:                                                           
